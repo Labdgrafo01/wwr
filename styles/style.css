@@ -1,0 +1,98 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #FFFFFF;
+        }
+        
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            
+        }
+        
+        .center {
+            text-align: center;
+            margin: 0 auto;
+            display: block;
+            width: 800px;
+        }
+        
+        header {
+            background-color:#51bd5a ;
+            color: white;
+        }
+        
+      
+        .icon {
+            max-width: 80px;
+            height: auto;
+        }
+        
+        .logo {
+            width: 80px;
+        }
+        #background {
+            height: 725px;
+        }
+        nav a {
+            text-align: center;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: none;
+            background-color: black;
+            color: #FFFFFF;
+        }    
+           
+        #hero-msg h1,#hero-msg h4 {
+            text-align: center;
+        }
+       .icon {
+            width: 80px;
+            height: auto;
+        }
+        
+        .button-box {
+            background-color: #51bd5a;
+            text-align: center;
+        }
+        
+        .book {
+            text-decoration: none;
+            display: inline-block;
+            background-color: #FFFFFF;
+          
+        }
+
+        .book:hover {
+            background-color: #6e4733;
+            color: #FFFFFF;
+        }
+
+        .join {
+            text-decoration: none;
+        }
+        .join:hover {
+            background-color: #6e4733;
+            color: #FFFFFF;
+        }
+
+        .msg {
+            background-color: #51bd5a;
+            text-align: center;
+        }
+        main section {
+            background-color: #027cff;
+            text-align: center;
+        }
+
+        footer {
+            text-decoration: none;
+            background-color: #51bd5a;
+            text-align: center;
+        }
+
+        footer a{
+        text-decoration: none;
+       }
+        
