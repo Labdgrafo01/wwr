@@ -20,7 +20,7 @@ body {
             background-color: #FFFFFF;
         }
         
-        
+
         .container {
             max-width: 1600px;
             margin: 0 auto;
@@ -75,6 +75,7 @@ body {
         nav a {
             text-align: center;
             text-decoration: none;
+            padding: 35px;
         }
 
 
@@ -90,6 +91,11 @@ body {
            
         }
        
+        .card-img {
+            border: 10px solid #6e4733;
+        }
+
+
         
         .button-box {
             background-color: #51bd5a;
@@ -106,6 +112,7 @@ body {
             font-size: 18px;
             padding: 15px 30px;
             margin-top: 50px;
+            border-radius: 5px;
         }
       
 
@@ -121,6 +128,7 @@ body {
             font-size: 18px;
             padding: 15px 30px;
             margin-top: 50px;
+            border-radius: 5px;
         }
 
 
@@ -152,12 +160,27 @@ body {
 
 
         main section {
-            background-color: #027cff;
+            background-color: #ffffff;
             text-align: center;
         }
 
 
+        main section img {
+            box-sizing: border-box;
+        }  
+
+
         .rapids-card  {
+            margin: 200px 0;
+        }
+
+
+        .camping-card {
+            margin: 200px 0;
+        }
+
+
+        .rivers-card {
             margin: 200px 0;
         }
 
@@ -168,6 +191,7 @@ body {
             text-align: center;
             font-family: 'Ubuntu', 'Red Hat Display', sans-serif;
             padding: 25px 50px;
+            margin-top: 200px;
         }
 
 
