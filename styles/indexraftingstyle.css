@@ -158,7 +158,6 @@
 
         .join {
             text-decoration: none;
-            text-align: center;
             font-family: 'Ubuntu', 'Red Hat Display', sans-serif;
             font-size: 18px;
             padding: 15px 30px;
@@ -178,14 +177,12 @@
             background-color: #6e4733;
             color: #FFFFFF;
         }
-
-
         .msg {
-            text-align: center;
-            font-family: 'Ubuntu', 'Red Hat Display', sans-serif;
-            font-size: 80%;
             background-color: #6e4733;
             color: white;
+            text-align: center;
+            font-family: 'Ubuntu', 'Red Hat Display', sans-serif;
+            font-size: 100%;
             line-height: 1.5em;
             padding: 35px;
             grid-column: 6/10;
