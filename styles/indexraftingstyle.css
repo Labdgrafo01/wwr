@@ -97,6 +97,7 @@
            
         #hero {
             display: grid;
+           
             grid-template-columns: 1fr 3fr 1fr;
             margin-top: -100px; 
         }
@@ -114,7 +115,7 @@
         }
 
         #hero-img {
-            max-width: center;
+             width: 100%;
         }
 
         #hero-msg h1,#hero-msg h4 {
