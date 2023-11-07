@@ -13,6 +13,7 @@
              margin: 0;
              padding: 0; 
         }
+
         h2 {
             margin:0;
         }
@@ -58,7 +59,7 @@
 
         .home-title {
             font-family: 'Ubuntu', 'Red Hat Display', sans-serif;
-            font-size: 2em;
+            font-size: 1em;
             margin-top: 10px;
         }
 
@@ -119,7 +120,6 @@
         .card-img {
             width: 100%;
             border: 10px solid #6e4733;
-            
             box-shadow: 5px 5px 10px #000000;
         
         }
